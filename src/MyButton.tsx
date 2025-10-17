@@ -11,6 +11,7 @@ export const MyButton: React.FC<MyButtonProps> = ({ type }) => {
       my button
       <br /> type: {type}
       <br /> count: {count}
+      Hello my dear friend
     </button>
   )
 }
