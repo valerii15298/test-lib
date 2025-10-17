@@ -1,6 +1,6 @@
 {
   "name": "@vpetryniak/react-components-starter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A starter for creating a React component library.",
   "type": "module",
   "license": "MIT",
