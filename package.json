@@ -46,6 +46,7 @@
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
     "@vitejs/plugin-react": "^5.0.4",
+    "@vpetryniak/react-components-starter": "^0.0.1",
     "bumpp": "^10.3.1",
     "happy-dom": "^20.0.0",
     "tsdown": "^0.15.6",
